@@ -1,0 +1,13 @@
+UE4 Shader Portfolio App
+
+#09/04/2021
+- Downloaded music pack from: https://www.noiiz.com/sounds/free_packs/1636
+
+#24/01/2021
+- Light Source Intensity reduced from 2.75 lux to 0.00 lux.
+- SkyLight Intensity Scale reduced from 1.0 to 0.25.
+- Created a new material named "M_CircuitMaterial" to replace "BlueMaterial". Used UE4 Docs for reference (https://docs.unrealengine.com/en-US/RenderingAndGraphics/Materials/HowTo/EmissiveGlow/index.html).
+
+#21/01/2021
+- Followed a tutorial for Rock Textures (https://www.youtube.com/watch?v=IclsRMai7LY&feature=emb_logo) and made a volcanic rock texture.
+- Created a mossy rock that can be edited on how mossy it could be (https://www.youtube.com/watch?v=QwVDlS8uiYg&t=4s), currently using UE4 default assets. The asset is called M_DefaultCoveredRock.
